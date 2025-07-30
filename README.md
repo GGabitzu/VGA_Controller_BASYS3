@@ -30,4 +30,9 @@ Project developed during internship at **Capgemini Engineering**, Brașov
 
 ##  Preview (optional)
 
-> *(You can add a screenshot or simulation here if available)*
+
+
+https://github.com/user-attachments/assets/0f8376c3-c22a-447e-a755-330f8c6f7540
+
+
+
